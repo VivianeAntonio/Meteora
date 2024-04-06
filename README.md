@@ -1,6 +1,6 @@
 # Bem vindo(a) ao repositório Meteora!
 
-Projeto de estudos front-end onde foi desenvolvida um site de loja de moda virtual "Meteora" pautado em responsividade e acessibilidade utilizando o framework Bootstrap.
+Projeto de estudos front-end onde foi desenvolvido um site sem fins comerciais para a loja virtual fictícia "Meteora" pautado em responsividade e acessibilidade utilizando o framework Bootstrap.
 
 Acesse neste link: https://vivianeantonio.github.io/Meteora/
 
